@@ -450,6 +450,12 @@
         "whenCreated": "2023-01-02T22:39:09.000Z"
     },
     {
+        "listName": "burbridge",
+        "itemId": 1502026,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T19:23:40.000Z"
+    },
+    {
         "listName": "C_W_testing",
         "itemId": 772833,
         "emotion": 1,
@@ -2778,6 +2784,54 @@
         "whenCreated": "2023-01-18T21:32:45.000Z"
     },
     {
+        "listName": "fl0rinb",
+        "itemId": 1497468,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T20:44:58.000Z"
+    },
+    {
+        "listName": "fl0rinb",
+        "itemId": 1498665,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T20:45:55.000Z"
+    },
+    {
+        "listName": "fl0rinb",
+        "itemId": 1502857,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T21:05:32.000Z"
+    },
+    {
+        "listName": "fl0rinb",
+        "itemId": 1504012,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T21:12:42.000Z"
+    },
+    {
+        "listName": "fl0rinb",
+        "itemId": 1504183,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T20:51:23.000Z"
+    },
+    {
+        "listName": "fl0rinb",
+        "itemId": 1504184,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T20:56:46.000Z"
+    },
+    {
+        "listName": "fl0rinb",
+        "itemId": 1504259,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T20:58:22.000Z"
+    },
+    {
+        "listName": "fl0rinb",
+        "itemId": 1504260,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T20:58:29.000Z"
+    },
+    {
         "listName": "frankm",
         "itemId": 213493,
         "emotion": 1,
@@ -4188,6 +4242,12 @@
         "whenCreated": "2023-01-18T02:50:40.000Z"
     },
     {
+        "listName": "KenSmith",
+        "itemId": 1454393,
+        "emotion": 1,
+        "whenCreated": "2023-01-24T01:16:43.000Z"
+    },
+    {
         "listName": "kevinwhalen",
         "itemId": 206800,
         "emotion": 1,
@@ -4462,6 +4522,18 @@
         "itemId": 1489961,
         "emotion": 1,
         "whenCreated": "2023-01-22T22:34:44.000Z"
+    },
+    {
+        "listName": "mackmary",
+        "itemId": 1506492,
+        "emotion": 1,
+        "whenCreated": "2023-01-24T03:49:44.000Z"
+    },
+    {
+        "listName": "mackmary",
+        "itemId": 1508246,
+        "emotion": 1,
+        "whenCreated": "2023-01-24T03:16:42.000Z"
     },
     {
         "listName": "mahu",
@@ -5476,6 +5548,18 @@
         "itemId": 1399092,
         "emotion": 1,
         "whenCreated": "2023-01-17T22:50:39.000Z"
+    },
+    {
+        "listName": "mistersugar",
+        "itemId": 1506154,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T23:15:38.000Z"
+    },
+    {
+        "listName": "mistersugar",
+        "itemId": 1506402,
+        "emotion": 1,
+        "whenCreated": "2023-01-23T23:16:06.000Z"
     },
     {
         "listName": "moosebegab",
