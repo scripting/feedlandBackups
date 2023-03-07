@@ -462,6 +462,12 @@
         "whenCreated": "2023-02-09T23:39:32.000Z"
     },
     {
+        "listName": "burbridge",
+        "itemId": 2062278,
+        "emotion": 1,
+        "whenCreated": "2023-03-06T18:30:39.000Z"
+    },
+    {
         "listName": "C_W_testing",
         "itemId": 772833,
         "emotion": 1,
@@ -3538,6 +3544,18 @@
         "itemId": 2106809,
         "emotion": 1,
         "whenCreated": "2023-03-01T15:32:03.000Z"
+    },
+    {
+        "listName": "gwthompson",
+        "itemId": 2189262,
+        "emotion": 1,
+        "whenCreated": "2023-03-06T16:40:11.000Z"
+    },
+    {
+        "listName": "gwthompson",
+        "itemId": 2189627,
+        "emotion": 1,
+        "whenCreated": "2023-03-06T16:06:37.000Z"
     },
     {
         "listName": "hrheingold",
